@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Workflow"
+  short_description: "Deliver engineering tasks from scope to verification"
+  default_prompt: "Use $eng-workflow to deliver this feature end-to-end using the current project context."

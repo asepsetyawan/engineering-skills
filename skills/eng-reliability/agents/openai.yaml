@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Reliability"
+  short_description: "Diagnose runtime issues and verify service recovery"
+  default_prompt: "Use $eng-reliability to diagnose this runtime issue using the available evidence."

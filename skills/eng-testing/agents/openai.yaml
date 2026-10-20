@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Testing"
+  short_description: "Verify behavior with focused regression evidence"
+  default_prompt: "Use $eng-testing to select and run relevant verification for this change."

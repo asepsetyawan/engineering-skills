@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Frontend"
+  short_description: "Build usable interfaces, state, and API integrations"
+  default_prompt: "Use $eng-frontend to implement this user journey, including relevant failure states."

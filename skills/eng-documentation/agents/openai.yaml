@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Documentation"
+  short_description: "Write technical guides from verified project facts"
+  default_prompt: "Use $eng-documentation to update this documentation from the actual project implementation."

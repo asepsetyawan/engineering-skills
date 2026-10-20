@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Delivery"
+  short_description: "Build reproducible pipelines, infrastructure, releases"
+  default_prompt: "Use $eng-delivery to prepare this build or delivery change using the project workflow."

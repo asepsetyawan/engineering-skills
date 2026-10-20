@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Security"
+  short_description: "Assess authorization, isolation, and trust boundaries"
+  default_prompt: "Use $eng-security to review the trust boundaries affected by this change."

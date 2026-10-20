@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Backend"
+  short_description: "Build APIs, business logic, workers, and integrations"
+  default_prompt: "Use $eng-backend to implement this backend change and verify its behavior."

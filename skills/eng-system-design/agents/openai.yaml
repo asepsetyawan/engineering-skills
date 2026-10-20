@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering System Design"
+  short_description: "Design capacity, data flows, and failure behavior"
+  default_prompt: "Use $eng-system-design to design this system with explicit capacity assumptions and trade-offs."

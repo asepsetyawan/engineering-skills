@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Design Patterns"
+  short_description: "Choose patterns that solve concrete code problems"
+  default_prompt: "Use $eng-design-patterns to choose a suitable solution and pattern for this code problem."

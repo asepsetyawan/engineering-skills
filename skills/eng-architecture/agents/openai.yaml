@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Architecture"
+  short_description: "Define module boundaries and architecture decisions"
+  default_prompt: "Use $eng-architecture to evaluate this project's boundaries and architecture decisions."

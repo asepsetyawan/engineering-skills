@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Code Review"
+  short_description: "Find actionable bugs and regressions in code changes"
+  default_prompt: "Use $eng-code-review to find concrete bugs and regression risks in this change."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Requirements"
+  short_description: "Turn product needs into testable acceptance criteria"
+  default_prompt: "Use $eng-requirements to define scope and acceptance criteria for this request."
